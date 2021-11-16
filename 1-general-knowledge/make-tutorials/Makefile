@@ -1,7 +1,5 @@
+.PHONY: rule1 rule2 rule3
  
-
-
-
 var := "var"
 var3 := "var3"
 

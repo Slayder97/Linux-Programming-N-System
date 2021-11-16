@@ -1,11 +1,4 @@
-
-
-
-
-
-
-
-
+.PHONY: stage1 stage2 stage3 stage4 all clean
 
 stage1:
 	gcc -E hello.c -o hello.i
