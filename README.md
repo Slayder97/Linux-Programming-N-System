@@ -4,7 +4,7 @@ Linux Programming N System Trainning Course
 1. Lesson 1-general-knowledge.
 - Advanced Makefile tutorial.
 - 4 stage of compiling C program.
-- Creating static lib, shared lib and use.
+- Creating static lib, shared lib and using.
 
 2. Lesson 2-linux-file-system.
 - Overview of Files on Linux.
