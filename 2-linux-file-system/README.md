@@ -1,4 +1,4 @@
-Directory structure:
+Directory structure: 
 
 - file-infor: get file's information using <struct stat>.
 - open-rw   : basic linux system call open/read/write/lseek/close.
