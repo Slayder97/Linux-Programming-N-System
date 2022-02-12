@@ -5,7 +5,7 @@ Directory structure:
 - src: Directory for the C and Cpp files.
 - lib: Directory for the static and shared lib.
 
-Following the instruction below to building static lib:
+Follow below instructions to build static lib:
 - step1:  make all	To build all object files.
 - step2:  make static	To build static lib.
 - step3:  make link	To link and build excutable file.
