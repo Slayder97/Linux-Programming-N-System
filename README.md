@@ -16,6 +16,16 @@ Linux Programming N System Trainning Course
 	- Command-line Arguments
 	- Memory layout of a process
 	- Working with Process
+	- Process Management
 
 4. Lesson 4-Thread
+	- Mutil-Thread
+	- Thread-Management
+	- Thread Synchonization: Mutex and conditional variable
 5. Lesson 5-Signal
+	- Handle Signal: 
+		- Default action
+		- Ignore Signal
+		- Catch and handle the signal
+	- Signal Handler
+	- Blocking and unblocking signals
