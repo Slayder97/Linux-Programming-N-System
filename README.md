@@ -1,31 +1,4 @@
 # Linux-Programming-N-System
 Linux Programming N System Trainning Course
-
-1. Lesson 1-general-knowledge.
-	- Advanced Makefile tutorial.
-	- 4 stage of compiling C program.
-	- Creating static lib, shared lib and using.
-
-2. Lesson 2-linux-file-system.
-	- Overview of Files on Linux.
-	- Read and write File in Linux.
-	- File management on Linux. 
-	- Read and write files asynchronously.
-
-3. Lesson 3-Process.
-	- Command-line Arguments
-	- Memory layout of a process
-	- Working with Process
-	- Process Management
-
-4. Lesson 4-Thread
-	- Mutil-Thread
-	- Thread-Management
-	- Thread Synchonization: Mutex and conditional variable
-5. Lesson 5-Signal
-	- Handle Signal: 
-		- Default action
-		- Ignore Signal
-		- Catch and handle the signal
-	- Signal Handler
-	- Blocking and unblocking signals
+Youtobe: https://www.youtube.com/channel/UCs0naCuLebcPE1pervW3vHQ
+Fb Group: https://www.facebook.com/groups/481584733205269
