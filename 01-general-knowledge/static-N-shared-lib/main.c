@@ -1,10 +1,10 @@
 #include <stdio.h>
-#include "helloKhanh.h"
-#include "helloWorld.h"
+#include "inc/hello_minh.h"
+#include "inc/hello_world.h"
 
-int main()
+
+void main()
 {
-	printf("Chao ca nha !!! \n");
-	helloKhanh();
+	helloMinh();
 	helloWorld();
 }
